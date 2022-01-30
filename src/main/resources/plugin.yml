@@ -6,3 +6,6 @@ main: org.example.exampleplugin.ExamplePlugin
 version: 1.0.0
 libraries:
   - "net.axay:kspigot:1.18.0"
+  - "org.jetbrains.kotlin:kotlin-stdlib:1.6.10"
+  - "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0"
+  - "org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.0"
