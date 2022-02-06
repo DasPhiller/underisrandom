@@ -13,9 +13,12 @@ repositories {
 }
 
 dependencies {
-    // PaperMC Dependency
+      // PaperMC Dependency
     paperDevBundle("1.18.1-R0.1-SNAPSHOT")
-
+    
+    //Helpings
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0")
+    
     // KSpigot dependency
     implementation("net.axay", "kspigot", "1.18.0")
 }
