@@ -1,1 +1,1 @@
-# Lobby Plugin for 16nerGames
+# FFA for 16nerGames

@@ -1,4 +1,4 @@
-rootProject.name = "exampleplugin"
+rootProject.name = "116ffa"
 
 pluginManagement {
     repositories {
